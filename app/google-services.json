@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273012243452",
+    "firebase_url": "https://crudfirebase-faebc.firebaseio.com",
+    "project_id": "crudfirebase-faebc",
+    "storage_bucket": "crudfirebase-faebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273012243452:android:d59fd3bbbe085dab",
+        "android_client_info": {
+          "package_name": "fauziachmadharunadev.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273012243452-ssu23fs628le436vadikkr00fhejvgok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fauziachmadharunadev.firebasecrud",
+            "certificate_hash": "11bee3f5e5463b7b7f9a53ec12fe406b25588748"
+          }
+        },
+        {
+          "client_id": "273012243452-4mepeuvuo8bpkti4h6o1g2bua9207tp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4A0rOZW8hQ6vzux1Qt2i0weKkCMxBBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273012243452-4mepeuvuo8bpkti4h6o1g2bua9207tp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

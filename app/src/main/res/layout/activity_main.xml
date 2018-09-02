@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    tools:context="fauziachmadharunadev.firebasecrud.MainActivity">
+
+    <EditText
+        android:id="@+id/editAgenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tulis Agenda " />
+
+    <Button
+        android:id="@+id/buttonAgenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="simpanAgenda"
+        android:text="Simpan" />
+
+    <ListView
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/listAgenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+
+</LinearLayout>
